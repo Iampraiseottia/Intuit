@@ -1,0 +1,139 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    background-color: rgb(232, 229, 229);
+    font-family: Arial, Helvetica, sans-serif;
+    margin-bottom: 500px;
+}
+
+#intuit{
+    text-align: center;
+    margin-top: 50px;
+
+}
+
+.intuit-top h1{
+    font-size: 30px;
+    letter-spacing: 1.5px;
+    cursor: pointer;
+    color: rgb(38, 38, 253);
+    font-size: 600;
+    opacity: 0.8;
+}
+
+.service{
+    margin-top: 15px;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 335px;
+    margin-right: 335px;
+    align-items: center;
+    
+
+}
+
+.turbotax,
+.karma,
+.quickbooks{
+    display: flex;
+    align-items: center;
+    cursor: pointer;
+}
+
+.service-img{
+    height: 19px;
+    width: auto;
+}
+
+.service-p{
+    margin-left: 4px;
+    opacity: 0.4;
+    /* font-size: 15px; */
+}
+
+.intuit-box{
+    height: 500px;
+    width: 375px;
+    border: 1px solid rgb(186, 190, 197);
+    background-color: white;
+    align-items: center;
+    text-align: center;
+    margin-left: 320px;
+    margin-top: 24px;
+    border-radius: 4px;
+}
+
+.intuit-box-container{
+    margin: 30px 30px 0px 30px;
+
+}
+
+.intuit-box-container h2{
+    font-size: 25px;
+    font-weight: 100;
+    opacity: 0.8;
+}
+
+.intuit-box-container p{
+    font-size: 15px;
+    padding-top: 21px;
+    padding-bottom: 24px;
+}
+
+.intuit-box-container p span{
+    color: rgb(0, 119, 197);
+}
+
+.intuit-box-container p span:hover{
+    text-decoration: underline;
+    cursor: pointer;
+    transition: 0.15s;
+    color: rgb(81, 171, 231);
+    /* font-weight: 500; */
+}
+
+.details{
+    text-align: left;
+    font-size: 15px;
+    /* margin-bottom: 20px; */
+}
+
+.take-in{
+    margin-top: 10px;
+    height: 30px;
+    width: 310px;
+    padding: 5px;
+    font-size: 16px;
+    border-radius: 4px;
+    border: 1px solid gray;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
