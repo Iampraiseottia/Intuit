@@ -9,6 +9,11 @@ body{
     /* margin-bottom: 800px; */
 }
 
+a{
+    text-decoration: none;
+    color: rgb(0, 119, 197);
+}
+
 #intuit{
     text-align: center;
     margin-top: 50px;
@@ -262,21 +267,3 @@ hr{
     opacity: 0.6;
     line-height: 1.7;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
