@@ -1,0 +1,77 @@
+.access{
+    opacity: 0.75;
+    font-size: 14px;
+    margin-left: -17px;
+    margin-right: -10px;
+}
+
+.lastname{
+    margin-left: -240px;
+    opacity: 0.7;
+    font-size: 15px;
+}
+
+.new{
+    margin-top: 10px;
+    margin-left: 2px;
+    height: 30px;
+    width: 280px;
+    border: 1px solid gray;
+    border-radius: 4px;
+    padding: 5px 15px;
+    font-size: 17px;
+    margin-bottom: 20px;
+}
+
+.lastname input:focus{
+    border: 2px solid rgb(38, 38, 253);
+    outline: red;
+    background-color: white;
+    position: absolute;
+    position: relative;
+
+}
+
+.Back,
+.Continue{
+    height: 40px;
+    width: 155px;
+    font-size: 15px;
+    cursor: pointer;
+
+}
+
+.lateast{
+    margin-right: -5px;
+}
+
+.Continue{
+    background: rgb(38, 38, 253);
+    color: white;
+    border: 1px solid rgb(38, 38, 253);
+    border-radius: 2px;
+    opacity: 0.8;
+}
+
+.Back{
+    color: rgb(38, 38, 253);
+    background-color: white;
+    border: 1px solid white;
+}
+
+.Continue:hover{
+    opacity: 1;
+}
+
+.Back:hover{
+    background-color: rgb(221, 221, 253);
+}
+
+/* .intuit-bottom{
+    margin-top: 180px;
+} */
+
+.intuit-box{
+    height: 725px;
+}
+
